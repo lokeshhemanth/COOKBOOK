@@ -70,7 +70,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 ## 📬 Contact
 For any queries or suggestions, reach out to:
 - **GitHub**: [lokeshhemanth](https://github.com/lokeshhemanth)
-- **Email**: your.email@example.com
+- **Email**: lokeshkumarperumal@gmail.com
 
 ---
 Happy Cooking! 🍕🍜🍰
