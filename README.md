@@ -8,8 +8,8 @@ Team Members:
 1.LOKESH KUMAR P (lokeshkumarperumal@gmail.com)
 2.MOHAMED MALIK A (malik0822a@gmail.com)
 3.BHARATH R (ravibharath20041@gmail.com)
-4.GUNA SEKAR S ()
-5.PARTHASARATHI ()
+4.GUNA SEKAR S (sgunasekarguna8@gmail.com)
+5.PARTHASARATHI (parthumass@gmail.com)
 
 
 Welcome to **COOKBOOK** – your ultimate collection of delicious recipes! Whether you're a beginner or a seasoned chef, this project provides a curated list of recipes to enhance your cooking experience.
